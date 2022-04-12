@@ -1,6 +1,7 @@
 # my-notes
-# Introduce Myself 
+# About me
 Hi..
+
  my name is Anas abu obeid, I am 23 years old and I live in zarqa,
  I have a bachelor's degree in computer science from al albayt University,
  I worked as a computer maintenance and support technician for the past 2 years.
